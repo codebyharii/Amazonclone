@@ -1,1 +1,2 @@
 # Amazonclone
+this is clone
